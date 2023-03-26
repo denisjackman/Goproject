@@ -1,0 +1,8 @@
+# Installation
+* go to [download page](https://golang.org/dl/) and download the latest version
+or 
+* go to [this page](https://go.dev/doc/install) and follow the instructions
+* install it
+* check that it works 'go version' from the command line
+* try the getting started [tutorial](https://golang.org/doc/tutorial/getting-started).
+* [this](https://golang.org/doc/tutorial/create-module) is a good tutorial to get started with modules
